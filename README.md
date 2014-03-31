@@ -21,3 +21,7 @@ of testing the parser
 CYKParser parser = new CYKParser("english.txt");
 parser.parse("don't accept this"); // which returns a boolean value
 `````````````
+
+## License
+
+CYKaveat is released under the [MIT License](http://www.opensource.org/licenses/MIT).
