@@ -1,4 +1,4 @@
-# CYKaviat
+# CYKaveat
 
 The implementation of CYK algorithm for context-free grammars in **Java 8**.
 This project aims to show the sweetness of functional-ish programming in Java 8
