@@ -1,5 +1,4 @@
 language: java
-
-jdk: oraclejdk8
-
-script: make
+jdk:
+  - oraclejdk8
+script: "make"
