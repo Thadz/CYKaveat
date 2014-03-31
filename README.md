@@ -1,4 +1,4 @@
-# CYKaviat
+# CYKaveat
 
 The implementation of CYK algorithm for context-free grammars in **Java 8**.
 This project aims to show the sweetness of functional-ish programming in Java 8
@@ -25,3 +25,4 @@ parser.parse("don't accept this"); // which returns a boolean value
 ## License
 
 CYKaveat is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+
