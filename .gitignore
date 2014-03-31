@@ -1,4 +1,6 @@
+*~
 *.class
+src/parser
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
